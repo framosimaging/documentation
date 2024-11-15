@@ -1,0 +1,257 @@
+/* custom CSS classes (used in docs/user_guide/extending.rst) NOTE: the begin
+ *  and end markers are necessary for partial file includes! don't remove them.
+ */
+
+/* begin-custom-color/* <your static path>/custom.css */
+
+/* Ensure the container takes full width */
+
+.blue {
+  color: blue;
+}
+
+h1 {
+  font-size: 1.6em; /* Adjust this value to reduce h1 size */
+  font-weight: 640;
+}
+
+h2 {
+  font-size: 1.35em; /* Adjust this value to reduce h2 size */
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.2em; /* Adjust this value to reduce h3 size */
+  font-weight: 550;
+}
+
+h4 {
+  font-size: 1.1em; /* Adjust this value to reduce h4 size */
+  font-weight: 550;
+}
+
+/* Ensure the container takes full width */
+.bd-container {
+  display: flex !important;
+  flex-direction: row !important;
+  width: 100% !important;
+  box-sizing: border-box !important; /* Ensures padding and border are included in width calculations */
+}
+
+/* Set sidebar primary width */
+.bd-sidebar-primary {
+  flex: 0 0 18% !important; /* Make the sidebar narrower */
+  max-width: 18% !important;
+  box-sizing: border-box !important;
+}
+
+/* Set main content width */
+.bd-main {
+  flex: 1 !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Additional adjustments for the main content area */
+.bd-content {
+  flex: 1 !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Additional adjustments for the article container */
+.bd-article-container {
+  padding: 0px !important;
+  max-width: max-content;
+  width: max-content;
+  box-sizing: border-box !important;
+}
+
+/* Ensure the page width is correctly set */
+.bd-page-width {
+  max-width: 100% !important;  /* Ensure the page width takes full width */
+  margin: 0 auto !important;  /* Center the content */
+  display: flex !important;  /* Use flexbox */
+  justify-content: space-between !important;  /* Distribute space evenly */
+}
+
+/* Optional: Adjust secondary sidebar if present */
+.bd-sidebar-secondary {
+  max-width: fit-content !important;
+  box-sizing: border-box !important;
+  min-width: 18%;
+}
+
+h2#fsm-ecosystem {
+  display: none;
+}
+
+/* _static/custom.css */
+
+/* Light mode sidebar styles */
+
+html[data-theme='light'] .bd-sidebar a, body[data-theme='light'] .bd-sidebar .bd-toc-item a {
+  color: #100f0fc0 !important;
+  font-size: 1.0em !important; /* Increase the font size */
+  /* font-weight: bold !important; Make the text bold */
+}
+
+html[data-theme='light'] .bd-sidebar .bd-toc-item a:hover, body[data-theme='light'] .bd-sidebar .bd-toc-item a:hover {
+  color: #2268ff; /* Link hover color for dark mode */
+}
+
+/* Dark mode sidebar styles */
+html[data-theme='light'] .bd-sidebar, body[data-theme='light'] .bd-sidebar .bd-toc-item {
+  /* color: #ffffffc0 !important; */
+  margin: 10px;
+}
+
+html[data-theme='light'] .bd-sidebar-secondary a, body[data-theme='light'] .bd-sidebar-secondary .sidebar-secondary-item a {
+  color: #100f0fc0 !important;
+  font-size: 1.0em !important; /* Increase the font size */
+  font-weight: 600 !important; /* Make the text bold */
+}
+
+
+html[data-theme='light'] .bd-sidebar-secondary .sidebar-secondary-item a:hover, body[data-theme='light'] .bd-sidebar-secondary .sidebar-secondary-item a:hover {
+  color: #2268ff; /* Link hover color for dark mode */
+}
+
+/* Dark mode sidebar styles */
+html[data-theme='light'] .bd-sidebar-secondary, body[data-theme='light'] .bd-sidebar-secondary .sidebar-secondary-item {
+  /* color: #ffffffc0 !important; */
+  margin: 10px;
+  background-color: #cfccccd7;
+}
+
+
+
+
+html[data-theme='dark'] .bd-sidebar a, body[data-theme='dark'] .bd-sidebar .bd-toc-item a {
+  color: #ffffffc0 !important;
+  font-size: 1.0em !important; /* Increase the font size */
+  /* font-weight: bold !important; Make the text bold */
+}
+
+.caption-text {
+  font-size: 1.2em; /* Adjust the font size as needed */
+}
+
+html[data-theme='dark'] .bd-sidebar-primary .bd-toc-item a:hover, body[data-theme='dark'] .bd-sidebar .bd-toc-item a:hover {
+  color: #2268ff; /* Link hover color for dark mode */
+}
+
+/* Dark mode sidebar styles */
+html[data-theme='dark'] .bd-sidebar, body[data-theme='dark'] .bd-sidebar .bd-toc-item {
+  /* color: #ffffffc0 !important; */
+  margin: 10px;
+}
+
+html[data-theme='dark'] .bd-sidebar-secondary a, body[data-theme='dark'] .bd-sidebar-secondary .sidebar-secondary-item a {
+  color: #ffffffa9 !important;
+  font-size: 1.0em !important; /* Increase the font size */
+  font-weight: bolder !important; Make the text bold
+}
+
+/* Dark mode sidebar styles */
+html[data-theme='dark'] .bd-sidebar-secondary, body[data-theme='dark'] .bd-sidebar-secondary {
+  /* color: #ffffffc0 !important; */
+  margin: 10px;
+  background-color: #333
+}
+
+
+
+.pst-page-navigation-heading-2 {
+  /* color: #fffffff1 !important;  Change the text color */
+  font-size: 1.3em !important; /* Increase the font size */
+  font-weight: bold !important; /* Make the text bold */
+}
+
+
+div.admonition.admonition-olive {
+  border-color: hsl(60, 100%, 25%);
+}
+div.admonition.admonition-olive > .admonition-title {
+  background-color: hsl(60, 100%, 14%);
+  color: white;
+}
+div.admonition.admonition-olive > .admonition-title:after {
+  color: hsl(60, 100%, 25%);
+}
+/* end-custom-color */
+
+/* begin-custom-icon/* <your static path>/custom.css */
+
+div.admonition.admonition-icon > .admonition-title:after {
+  content: "\f24e"; /* the fa-scale icon */
+}
+/* end-custom-icon */
+
+/* begin-custom-youtube/* <your static path>/custom.css */
+
+div.admonition.admonition-youtube {
+  border-color: hsl(0, 100%, 50%); /* YouTube red */
+}
+div.admonition.admonition-youtube > .admonition-title {
+  background-color: hsl(0, 99%, 18%);
+  color: white;
+}
+div.admonition.admonition-youtube > .admonition-title:after {
+  color: hsl(0, 100%, 50%);
+  content: "\f26c"; /* fa-solid fa-tv */
+}
+/* end-custom-youtube */
+
+/* fix for project names that are parsed as links: the whole card is a link so
+ * don't format the project name itself like a text link
+ */
+div.downstream-project-links a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+/* custom.css */
+/* Make the content area wider */
+.wy-nav-content {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+/* Ensure sidebar is responsive */
+@media (max-width: 768px) {
+  .wy-nav-side {
+      width: 100%;
+  }
+  .wy-nav-content-wrap {
+      margin-left: 0;
+  }
+}
+
+/* Adjust font size for better readability */
+body {
+  font-size: 16px;
+}
+
+/* Style the tables for better display on smaller screens */
+table {
+  width: 100%;
+  overflow-x: auto;
+  display: block;
+}
+
+/* Improve code block readability */
+.highlight pre {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.bd-main .bd-content .bd-article-container .bd-article {
+  padding-left: 1.0rem;
+  padding-top: 1.0rem;
+}
+
+.bd-main .bd-content .bd-article-container {
+  max-width: fit-content;
+  width: 100%;
+}

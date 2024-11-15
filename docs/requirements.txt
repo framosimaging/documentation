@@ -1,0 +1,16 @@
+Sphinx==7.2.6
+pydata_sphinx_theme
+sphinxcontrib-napoleon
+sphinxext-rediraffe
+sphinx-design
+sphinx-copybutton
+myst-parser
+ablog
+jupyter-sphinx
+sphinxcontrib-youtube
+nbsphinx
+numpydoc
+sphinx-togglebutton
+jupyterlite-sphinx
+sphinx-favicon
+linkify-it-py
