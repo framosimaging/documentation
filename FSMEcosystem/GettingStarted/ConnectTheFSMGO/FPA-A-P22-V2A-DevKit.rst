@@ -264,29 +264,29 @@ board, or both. Ensure all connections are correctly aligned and secure
 before applying power.
 
 .. |image10| image:: Connect-10s.svg
-   :width: 630px
+   :width: 603px
    :height: 360px
 .. |image11| image:: Connect-11s.svg
-   :width: 700px
+   :width: 864px
    :height: 350px
 .. |image12| image:: Connect-12s.svg
-   :width: 700px
+   :width: 989px
    :height: 270px
 .. |image13| image:: Connect-13s.svg
-   :width: 700px
+   :width: 857px
    :height: 270px
 .. |image14| image:: Connect-14s.svg
-   :width: 700px
+   :width: 975px
    :height: 270px
 .. |image15| image:: Connect-15s.svg
-   :width: 700px
+   :width: 975px
    :height: 270px
 .. |image16| image:: Connect-16s.svg
-   :width: 700px
+   :width: 656px
    :height: 380px
 .. |image17| image:: Connect-17s.svg
-   :width: 700px
+   :width: 751px
    :height: 350px
 .. |image18| image:: Connect-18s.svg
-   :width: 700px
+   :width: 1191px
    :height: 270px

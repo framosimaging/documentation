@@ -6,6 +6,33 @@
 
 /* Ensure the container takes full width */
 
+/* General table styles */
+.scrollable {
+  overflow-x: auto;
+  display: block;
+}
+
+.scrollable table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.scrollable th, .scrollable td {
+  padding: 8px;
+  text-align: left;
+}
+
+/* Custom font size for column 1-10 starting from the second row */
+.scrollable td:nth-child(n+1):nth-child(-n+10) {
+  font-size: 12px; /* Adjust this value as needed */
+}
+
+/* Exclude the header row (row 1) */
+.scrollable tr:nth-child(n+2) td:nth-child(n+2):nth-child(-n+10) {
+  font-size: 13px; /* Font size for specific cell values */
+}
+
+
 .blue {
   color: blue;
 }

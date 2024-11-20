@@ -311,38 +311,38 @@ applications where minimal cabling is preferable.
    :width: 800px
    :height: 300px
 .. |image20| image:: Connect-20s.svg
-   :width: 800px
+   :width: 761px
    :height: 310px
 .. |image21| image:: Connect-21s.svg
-   :width: 800px
+   :width: 993px
    :height: 270px
 .. |image22| image:: Connect-22s.svg
-   :width: 800px
+   :width: 979px
    :height: 270px
 .. |image23| image:: Connect-23s.svg
-   :width: 800px
+   :width: 895px
    :height: 270px
 .. |image24| image:: Connect-24s.svg
-   :width: 800px
+   :width: 735px
    :height: 300px
 .. |image25| image:: Connect-25s.svg
-   :width: 800px
+   :width: 1239px
    :height: 260px
 .. |image26| image:: Connect-26s.svg
-   :width: 800px
+   :width: 639px
    :height: 370px
 .. |image27| image:: Connect-27s.svg
-   :width: 800px
+   :width: 1001px
    :height: 280px
 .. |image28| image:: Connect-28s.svg
    :width: 800px
    :height: 300px
 .. |image29| image:: Connect-29s.svg
-   :width: 800px
+   :width: 700px
    :height: 340px
 .. |image30| image:: Connect-30s.svg
-   :width: 800px
+   :width: 740px
    :height: 340px
 .. |image31| image:: Connect.24s.svg
-   :width: 800px
+   :width: 662px
    :height: 270px

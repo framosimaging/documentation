@@ -4,8 +4,11 @@ FMA-MNT (Mechanicals)
 FMA-MNT-CCS/260-V1: C/CS-Mount for 26.5mm Footprint
 -----------------------------------------------------
 
+.. image::  FMA-1s.png
+   :align: right
+   :width: 415px
+   :height: 250px
 
-|image1|
 
 CS-mount body delivered with 5mm CS- to C-Mount extension ring.
 
@@ -18,6 +21,10 @@ CS-mount body delivered with 5mm CS- to C-Mount extension ring.
 -  Finish: Black Anodizing
 
 -  Optical Filter: Not applicable
+
+.. raw:: html
+
+   <br>
 
 **Technical Drawing**
 
@@ -36,7 +43,10 @@ foils between mount and PCB.
 FMA-MNT-CCS/280-V1: C/CS-Mount for 28mm FSM Footprint
 -----------------------------------------------------
 
-|image3|
+.. image::  FMA-3s.png
+   :align: right
+   :width: 413px
+   :height: 250px
 
 CS-mount body delivered with 5mm CS- to C-Mount extension ring.
 
@@ -49,6 +59,10 @@ CS-mount body delivered with 5mm CS- to C-Mount extension ring.
 -  Finish: Black Anodizing
 
 -  Optical Filter: Not applicable
+
+.. raw:: html
+
+   <br>
 
 **Technical Drawing**
 
@@ -67,12 +81,12 @@ foils between mount and PCB.
 .. |image1| image:: FMA-1s.svg
    :width: 500px
    :height: 200px
-.. |image2| image:: FMA-2s.svg
-   :width: 700px
+.. |image2| image:: FMA-2s.png
+   :width: 632px
    :height: 400px
-.. |image3| image:: FMA-3s.svg
-   :width: 500px
-   :height: 200px
-.. |image4| image:: FMA-4s.svg
-   :width: 700px
+.. |image3| image:: FMA-3s.png
+   :width: 413px
+   :height: 250px
+.. |image4| image:: FMA-4s.png
+   :width: 615px
    :height: 400px

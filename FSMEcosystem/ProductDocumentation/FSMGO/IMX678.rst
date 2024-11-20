@@ -1005,64 +1005,64 @@ NXP i.MX8MP Support
 +----------------------------------+-----------------------------------+
 
 .. |image1| image:: 678-1.png
-   :width: 3in
+   :width: 2.6in
    :height: 2in
 .. |image2| image:: 678-2.png
-   :width: 2in
+   :width: 1.72in
    :height: 2in
 .. |image3| image:: 678-3.png
-   :width: 2in
+   :width: 1.64in
    :height: 2in
 .. |image4| image:: 678-4.png
-   :width: 2in
+   :width: 1.69in
    :height: 2in
 .. |image5| image:: 678-5.png
-   :width: 3.5in
+   :width: 2.7in
    :height: 2.5in
 .. |image6| image:: 678-6.png
-   :width: 5.5in
+   :width: 6.6in
    :height: 2.5in
 .. |image7| image:: 678-7.svg
-   :width: 600px
+   :width: 908px
    :height: 400px
 .. |image8| image:: 678-8.svg
-   :width: 600px
+   :width: 905px
    :height: 400px
 .. |image9| image:: 678-9.svg
-   :width: 600px
+   :width: 882px
    :height: 400px
 .. |image10| image:: 678-10.svg
-   :width: 600px
+   :width: 912px
    :height: 400px
 .. |image11| image:: 678-11.svg
-   :width: 600px
+   :width: 610px
    :height: 400px
 .. |image12| image:: 678-12.svg
-   :width: 600px
+   :width: 670px
    :height: 400px
 .. |image13| image:: 678-13.svg
-   :width: 600px
+   :width: 664px
    :height: 400px
 .. |image14| image:: 678-14.svg
-   :width: 600px
+   :width: 602px
    :height: 400px
 .. |image15| image:: 678-15.svg
-   :width: 600px
+   :width: 696px
    :height: 400px
 .. |image16| image:: 678-16.svg
-   :width: 600px
+   :width: 666px
    :height: 400px
 .. |image17| image:: 678-17.svg
-   :width: 600px
+   :width: 766px
    :height: 400px
 .. |678-field1| image:: 678-field1.svg
-   :width: 150px
+   :width: 260px
    :height: 150px
 .. |678-field2| image:: 678-field2.svg
-   :width: 150px
+   :width: 260px
    :height: 150px
 .. |678-field3| image:: 678-field3.svg
-   :width: 150px
+   :width: 260px
    :height: 150px
 .. |678-sensor1| image:: 678-sensor1.svg
    :width: 200px
@@ -1074,5 +1074,5 @@ NXP i.MX8MP Support
    :width: 200px
    :height: 200px
 .. |image-678-focus-area| image:: image-678-focus-area.png
-   :width: 4in
+   :width: 4.16in
    :height: 2.5in               

@@ -130,7 +130,7 @@ orientation below.
 The values needed for calculation can be found in the corresponding
 sensor datasheet.
 
-Sensor Communication and General Purpose Input- / Outputs (GPIO)
+**Sensor Communication and General Purpose Input- / Outputs (GPIO)**
 
 The SerDes chain embeds several (sensor) signals as well as
 communication into the GMSL stream. It is differentiated between 10
@@ -140,7 +140,7 @@ via I2C:
 
    -  GPIO Extender:
 
-   -  SLAMODE0, SLAMODE1, SLAMODE2, XMASTER, TOUT0, TOUT1, TOUT2
+      -  SLAMODE0, SLAMODE1, SLAMODE2, XMASTER, TOUT0, TOUT1, TOUT2
 
    -  Multi-Functional Pins
 
@@ -301,7 +301,7 @@ variants.
 | |Image14|                               | |Image15|                               |
 +-----------------------------------------+-----------------------------------------+
 
-Pinout: J1 (PixelMateC)
+**Pinout: J1 (PixelMateC)**
 
 +-------+--------------------------+-------+----------------------------+
 | Pin # | Name                     | Pin # | Name                       |
@@ -395,41 +395,41 @@ the 12 Gbps speed.
    :width: 10in
    :height: 4in
 .. |image3| image:: FFA-3.png
-   :width: 7.30031in
-   :height: 2.95079in
+   :width: 6.93in
+   :height: 2.95in
 .. |image4| image:: FFA-4.png
-   :width: 3.50031in
-   :height: 3.45079in
+   :width: 3.35in
+   :height: 3.45in
 .. |image5| image:: FFA-5.png
-   :width: 3.50031in
-   :height: 3.45079in
+   :width: 3.15in
+   :height: 3.45in
 .. |image6| image:: FFA-6.png
-   :width: 4.58942in
-   :height: 2.17857in
+   :width: 5.52in
+   :height: 2.17in
 .. |image7| image:: FFA-6.png
-   :width: 7.00031in
-   :height: 2.80079in
+   :width: 7.13in
+   :height: 2.80in
 .. |image8| image:: FFA-8.png
-   :width: 3.50031in
-   :height: 3.45079in
+   :width: 3.35in
+   :height: 3.45in
 .. |image9| image:: FFA-9.png
-   :width: 3.50031in
-   :height: 3.45079in
+   :width: 3.15in
+   :height: 3.45in
 .. |image10| image:: FFA-10.png
-   :width: 7.30031in
-   :height: 3.15079in
+   :width: 7.06in
+   :height: 3.15in
 .. |image11| image:: FFA-11.png
-   :width: 3.50031in
-   :height: 3.45079in
+   :width: 3.29in
+   :height: 3.45in
 .. |image12| image:: FFA-12.png
-   :width: 3.50031in
-   :height: 3.45079in
+   :width: 3.15in
+   :height: 3.45in
 .. |image13| image:: FFA-13.png
-   :width: 7.30031in
-   :height: 2.95079in
+   :width: 8.66in
+   :height: 2.95in
 .. |image14| image:: FFA-14.png
-   :width: 3.50031in
-   :height: 3.45079in
+   :width: 3.30in
+   :height: 3.45in
 .. |image15| image:: FFA-15.png
-   :width: 3.50031in
-   :height: 3.45079in
+   :width: 3.15in
+   :height: 3.45in

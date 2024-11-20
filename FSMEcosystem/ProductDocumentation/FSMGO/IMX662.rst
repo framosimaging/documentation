@@ -983,64 +983,64 @@ NXP i.MX8MP Support
 +----------------------------------+-----------------------------------+
 
 .. |image1| image:: 662-1.png
-   :width: 3in
+   :width: 2.6in
    :height: 2in
 .. |image2| image:: 662-2.png
-   :width: 2in
+   :width: 1.6in
    :height: 2in
 .. |image3| image:: 662-3.png
-   :width: 2in
+   :width: 1.64in
    :height: 2in
 .. |image4| image:: 662-4.png
-   :width: 2in
+   :width: 1.67in
    :height: 2in
 .. |image5| image:: 662-5.png
-   :width: 3.5in
+   :width: 2.70in
    :height: 2.5in
 .. |image6| image:: 662-6.png
-   :width: 5.5in
+   :width: 6.7in
    :height: 2.5in
 .. |image7| image:: 662-7.svg
-   :width: 600px
+   :width: 800px
    :height: 400px
 .. |image8| image:: 662-8.svg
-   :width: 600px
+   :width: 844px
    :height: 400px
 .. |image9| image:: 662-9.svg
-   :width: 650px
+   :width: 475px
    :height: 475px
 .. |image10| image:: 662-10.svg
-   :width: 600px
+   :width: 737px
    :height: 400px
 .. |image11| image:: 662-11.svg
-   :width: 600px
+   :width: 610px
    :height: 400px
 .. |image12| image:: 662-12.svg
-   :width: 600px
+   :width: 670px
    :height: 400px
 .. |image13| image:: 662-13.svg
-   :width: 600px
+   :width: 664px
    :height: 400px
 .. |image14| image:: 662-14.svg
-   :width: 600px
+   :width: 602px
    :height: 400px
 .. |image15| image:: 662-15.svg
-   :width: 600px
+   :width: 696px
    :height: 400px
 .. |image16| image:: 662-16.svg
-   :width: 600px
+   :width: 666px
    :height: 400px
 .. |image17| image:: 662-17.svg
-   :width: 600px
+   :width: 766px
    :height: 400px
 .. |662-field1| image:: 662-field1.svg
-   :width: 150px
+   :width: 260px
    :height: 150px
 .. |662-field2| image:: 662-field2.svg
-   :width: 150px
+   :width: 261px
    :height: 150px
 .. |662-field3| image:: 662-field3.svg
-   :width: 150px
+   :width: 261px
    :height: 150px
 .. |662-sensor1| image:: 662-sensor1.svg
    :width: 200px
@@ -1052,7 +1052,7 @@ NXP i.MX8MP Support
    :width: 200px
    :height: 200px
 .. |image-662-focus-area| image:: image-662-focus-area.png
-   :width: 4in
+   :width: 4.2in
    :height: 2.5in                  
    
    

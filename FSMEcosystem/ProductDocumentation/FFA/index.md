@@ -4,7 +4,7 @@ FRAMOS Functional Adapters (FFAs) extend the capabilities of the FSM Ecosystem b
 
 ![FFA-1](FFA-1.png)
 
-**Figure 10: Block Diagram of components in MIPI CSI-2 chain with optional FFA on top FSM chain.
+**Figure**: Block Diagram of components in MIPI CSI-2 chain with optional FFA on top FSM chain.
 
 As an example, Figure 10 shows the block diagram of two FSMs connected
 to a processor board with their appropriate adapters (FSA, FPA). In the
